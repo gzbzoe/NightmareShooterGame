@@ -1,0 +1,8 @@
+/.vs/
+/Library/
+/obj/
+/NightmareShooter_Data/
+/NightmareShooter1_Data/
+
+*.sln
+*.csproj
